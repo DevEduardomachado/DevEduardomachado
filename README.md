@@ -6,7 +6,7 @@ Studying web development, skills with HTML5, CSS3 and JavaScript
 
 ### Detalhes 
 
-[![Anurang's Github stats](https://github-readme-status-vercel.app/api?username=DevEduardomachadoshow_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-status)
+[![Anurang's Github stats](https://github-readme-status-vercel.app/api?username=DevEduardomachado&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-status)
 
 <!--
 **DevEduardomachado/DevEduardomachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
