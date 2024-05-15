@@ -1,8 +1,10 @@
 ### Hi there 👋
 ### Ola! 👋
 
+#### Welcome!
 #### Seja bem vindo! 
 Studying web development, skills with HTML5, CSS3 and JavaScript
+Estudando desenvolvimento web, habilidades em JavaScript, HTML5 e CSS3
 
 ### Detalhes 
 
