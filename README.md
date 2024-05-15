@@ -16,6 +16,10 @@ Studying web development, skills with HTML5, CSS3 and JavaScript
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevEduardomachado&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Contatos
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/carlos-eduardo-rodrigues-machado/)
+
 <!--
 **DevEduardomachado/DevEduardomachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
