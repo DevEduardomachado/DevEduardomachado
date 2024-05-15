@@ -14,6 +14,8 @@ Estudando desenvolvimento web, habilidades em JavaScript, HTML5 e CSS3
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevEduardomachado&repo=Variavel&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevEduardomachado&repo=paginatestehtml&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevEduardomachado&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
