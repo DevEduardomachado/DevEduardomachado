@@ -1,4 +1,10 @@
 ### Hi there 👋
+### Ola! 👋
+
+#### Seja bem vindo! 
+Studying web development, skills with HTML5, CSS3 and JavaScript
+
+### Detalhes 
 
 <!--
 **DevEduardomachado/DevEduardomachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
