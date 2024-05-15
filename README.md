@@ -16,6 +16,8 @@ Estudando desenvolvimento web, habilidades em JavaScript, HTML5 e CSS3
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevEduardomachado&repo=Pagina-Pessoal-v1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+#### Em breve, Projetos de previsão do tempo, E-Comerce e outros!
+
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevEduardomachado&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
