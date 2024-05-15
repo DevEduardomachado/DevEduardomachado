@@ -6,7 +6,7 @@ Studying web development, skills with HTML5, CSS3 and JavaScript
 
 ### Detalhes 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=githubjavascriptebac&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevEduardomachado&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
 
